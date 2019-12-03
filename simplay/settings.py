@@ -1,0 +1,9 @@
+import os
+
+#Global
+SECRET_KEY = "9bb86fa2-a66b-40d0-8e57-bc226e9e75d0"
+TEMPLATES_AUTO_RELOAD = True
+EXPLAIN_TEMPLATE_LOADING = False
+
+# WTForms
+WTF_CSRF_ENABLED = True

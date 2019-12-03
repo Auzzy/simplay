@@ -1,0 +1,1 @@
+from simplay import views
